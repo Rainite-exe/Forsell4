@@ -1,0 +1,7 @@
+?token=?????? 
+owner=490546269832609792
+prefix= 4
+game= 4help
+stayinchannel=true
+songinstatus=true 
+token=NTIyODE4MDU4NDA3MTE2ODAw.DvQgPA.8yLFJy6ZvTcV4-os7GIBNLRCO_A
